@@ -4,7 +4,7 @@
 - 😄 Pronomes: ele/delas
 - ⚡ Curiosidade: Nada
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markosvr&show_icons=true&theme=transparent)
 
 ## Estou aprendendo
 
