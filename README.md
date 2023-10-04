@@ -6,9 +6,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markosvr&show_icons=true&theme=transparent)
 
+
+
 ## Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
  
 ## Ferramentas e Tecnologias
 
