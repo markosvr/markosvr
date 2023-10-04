@@ -1,3 +1,9 @@
+<p align="center">
+ <img width="100px" src="https://images-ext-2.discordapp.net/external/o4lInltyHKz0TGqLcGWTndQxxiZ0lG9D81tP5nUwjHU/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1140453745080152064/b9bc5c1bdbd21c382855d2c58b7e5482.png" align="center" alt="Marco />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
+
 - 🔭 Atualmente estou trabalhando na Mooncloud
 - 🌱 Atualmente estou aprendendo java
 - 📫 Como entrar em contato comigo me adicione no discord: Marcoosilva
